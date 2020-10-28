@@ -16,7 +16,7 @@
 
 - 🔭 &nbsp; I’m currently Cloud Computing, Computer Networking , part time Developer working on Android.
 - 🤔 &nbsp; Actively contributing to various organisations and Open-Source Projects.
-- 🎓 &nbsp; UG.
+- 🎓 &nbsp; UG BCA [ CMS].
 - 🌱 &nbsp; Just Free in myself,
 
 <h3>🛠 Tech Stack</h3>
