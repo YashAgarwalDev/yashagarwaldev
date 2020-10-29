@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there! I'm Yash.👋</h1>
 <p align="center">
   <b>A more than a tech enthusiast, selftaught Developer, and a Photographer.</b></br>
-  <b>A selftaught Developer, and a Photographer.</b></br>
+  <b>Well I have made lots of toys in my playground.</b></br>
   <b>well you don't belive but Music , My Computer and My Phone we all are best friends.</b></br>
   <sub>Currently I am seeking opportunities that will allow me to develop and promote technologies that benefits the Mankind.<sub>
 </p>
