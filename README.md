@@ -5,7 +5,6 @@
   <b>well you don't belive but Music , My Computer and My Phone we all are best friends.</b></br>
   <sub>Currently I am seeking opportunities that will allow me to develop and promote technologies that benefits the Mankind.<sub>
 </p>
- 
  <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" img width="5000" height="3" />
 </p>
@@ -42,5 +41,11 @@
 &nbsp; <a href="mailto:yashsidd98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=yashagarwaldev&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
+  
+   <a href="https://dev.to/yashagarwaldev">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Yash Agarwal's DEV Profile" height="30" width="30">
+</a>
+  
+  
 
 
