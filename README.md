@@ -24,9 +24,11 @@
 - ☁️ &nbsp; AWS | Azure | GCP | OpenStack
 - 🔧 &nbsp; Visual Studio code | Git | CMD | Android Studio
 
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" img width="5000" height="3" />
+</p>
 <br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yashagarwaldev&show_icons=true" alt="yashagarwaldev" /> </p>
-
 <br>
 
 <p align="center">
