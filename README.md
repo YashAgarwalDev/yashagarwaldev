@@ -13,9 +13,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently Cloud Computing, Computer Networking , part time Developer working on Android.
+- 🔭 &nbsp; I’m currently in Cloud Computing, Computer Networking , part time Developer working on Android.
 - 🤔 &nbsp; Actively contributing to various organisations and Open-Source Projects.
 - 🎓 &nbsp; UG BCA [ CMS].
+- 🎓 &nbsp; PG MCA [ CS]. 
 - 🌱 &nbsp; Just Free in myself,
 
 <h3>🛠 Tech Stack</h3>
